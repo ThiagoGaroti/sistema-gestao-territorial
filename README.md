@@ -9,3 +9,11 @@ A solução foi criada para atender 12 territórios independentes, cada um com a
 O principal objetivo da plataforma é transformar processos anteriormente dispersos em um fluxo único e rastreável, gerando registros confiáveis, histórico de decisões e informações consolidadas para apoio à tomada de decisão.
 
 A plataforma integra o fluxo de trabalho utilizado pelos territórios e pelas equipes responsáveis pelo acompanhamento das demandas, concentrando informações que anteriormente eram registradas e acompanhadas de forma descentralizada.
+
+## Principais Funcionalidades
+
+### Módulo Territorial
+
+### Módulo Institucional
+
+### Módulo Administrativo
