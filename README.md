@@ -14,6 +14,18 @@ A plataforma integra o fluxo de trabalho utilizado pelos territórios e pelas eq
 
 ### Módulo Territorial
 
+### Módulo Territorial
+
+O módulo territorial concentra as funcionalidades utilizadas pelos pontos focais responsáveis pelo acompanhamento das demandas de cada território.
+
+A partir deste ambiente, os usuários podem agendar reuniões, registrar sua realização, cadastrar participantes, estruturar pautas e acompanhar os apontamentos gerados ao longo do tempo.
+
+Para reduzir retrabalho e garantir continuidade no acompanhamento das demandas, o sistema reaproveita automaticamente participantes da reunião anterior e mantém ativos os apontamentos com status "Pendente" e "Em Andamento" até sua conclusão.
+
+Os apontamentos registrados podem ser convertidos diretamente em ofícios, utilizando informações já preenchidas durante a reunião para agilizar a formalização e o encaminhamento das solicitações.
+
+Após a autenticação, cada território possui acesso apenas às suas próprias informações, garantindo isolamento dos dados e independência operacional entre os diferentes grupos atendidos pela plataforma.
+
 ### Módulo Institucional
 
 ### Módulo Administrativo
