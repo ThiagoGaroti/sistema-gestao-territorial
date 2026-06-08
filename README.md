@@ -14,8 +14,6 @@ A plataforma integra o fluxo de trabalho utilizado pelos territórios e pelas eq
 
 ### Módulo Territorial
 
-### Módulo Territorial
-
 O módulo territorial concentra as funcionalidades utilizadas pelos pontos focais responsáveis pelo acompanhamento das demandas de cada território.
 
 A partir deste ambiente, os usuários podem agendar reuniões, registrar sua realização, cadastrar participantes, estruturar pautas e acompanhar os apontamentos gerados ao longo do tempo.
@@ -28,4 +26,21 @@ Após a autenticação, cada território possui acesso apenas às suas próprias
 
 ### Módulo Institucional
 
+O módulo institucional é utilizado pelas equipes responsáveis pela análise e encaminhamento das demandas geradas pelos territórios.
+
+Por meio deste ambiente, os usuários recebem os ofícios emitidos pelos pontos focais, analisam as solicitações registradas e direcionam cada demanda para a secretaria ou órgão responsável pelo atendimento.
+
+O módulo também permite acompanhar a tramitação dos ofícios, atualizar seus status e registrar a evolução das demandas ao longo do processo de atendimento.
+
+As atualizações realizadas neste ambiente são refletidas automaticamente para os territórios de origem, permitindo que os responsáveis acompanhem o andamento de suas solicitações sem a necessidade de comunicação paralela ou controles externos.
+
+
 ### Módulo Administrativo
+
+O módulo administrativo oferece uma visão consolidada das informações registradas em toda a plataforma, apoiando atividades de acompanhamento, monitoramento e tomada de decisão.
+
+Por meio deste ambiente, é possível analisar indicadores relacionados a reuniões, pautas, apontamentos e ofícios, utilizando filtros por período, território e diferentes níveis de detalhamento.
+
+Além da visualização dos dados em dashboards, o sistema permite a geração de relatórios em formato PDF voltados para uso institucional e acompanhamento gerencial.
+
+O módulo também incorpora recursos de acessibilidade, incluindo ajustes de tamanho de fonte para atender diferentes perfis de usuários e facilitar a consulta das informações.
