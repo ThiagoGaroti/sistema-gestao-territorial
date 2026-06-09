@@ -44,3 +44,43 @@ Por meio deste ambiente, é possível analisar indicadores relacionados a reuni�
 Além da visualização dos dados em dashboards, o sistema permite a geração de relatórios em formato PDF voltados para uso institucional e acompanhamento gerencial.
 
 O módulo também incorpora recursos de acessibilidade, incluindo ajustes de tamanho de fonte para atender diferentes perfis de usuários e facilitar a consulta das informações.
+
+## Tecnologias Utilizadas
+
+### Front-end
+
+* React
+* TypeScript
+* Vite
+* React Router
+
+### Interface e Experiência do Usuário
+
+* Tailwind CSS
+* Shadcn/UI
+* Radix UI
+* Lucide Icons
+
+### Gerenciamento de Estado e Dados
+
+* React Query
+
+### Formulários e Validação
+
+* React Hook Form
+* Zod
+
+### Banco de Dados e Backend
+
+* Supabase
+* PostgreSQL
+
+### Relatórios e Visualização de Dados
+
+* Recharts
+* PDFMake
+
+### Hospedagem e Deploy
+
+* Vercel
+
