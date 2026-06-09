@@ -80,6 +80,22 @@ O módulo também incorpora recursos de acessibilidade, incluindo ajustes de tam
 * Recharts
 * PDFMake
 
+## Resultados e Impacto
+
+O Sistema de Gestão Territorial foi desenvolvido para apoiar o acompanhamento das demandas dos territórios e atualmente integra o fluxo de trabalho utilizado pelas equipes responsáveis pelo registro, encaminhamento e monitoramento das solicitações.
+
+A plataforma centralizou processos que anteriormente eram executados de forma descentralizada, permitindo a consolidação de informações em um único ambiente, com histórico de reuniões, acompanhamento de demandas, emissão de ofícios e monitoramento institucional.
+
+Entre os principais resultados obtidos com a utilização da solução estão:
+
+* Centralização das informações dos territórios em uma única plataforma;
+* Rastreabilidade das demandas desde o registro até a conclusão;
+* Redução da necessidade de controles paralelos em planilhas e documentos isolados;
+* Padronização do processo de emissão e acompanhamento de ofícios;
+* Disponibilização de indicadores e relatórios para apoio à tomada de decisão;
+* Histórico estruturado de reuniões, pautas e encaminhamentos realizados.
+
+
 ### Hospedagem e Deploy
 
 * Vercel
