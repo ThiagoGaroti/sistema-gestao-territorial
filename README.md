@@ -101,3 +101,21 @@ Entre os principais resultados obtidos com a utilização da solução estão:
 
 
 
+
+## Capturas de Tela
+
+### Dashboard Territorial
+
+![Dashboard Territorial](Assets/Screenshots/Dashboard_Territorial.png)
+
+### Detalhamento de Reunião
+
+![Detalhamento de Reunião](Assets/Screenshots/Detalhamento%20de%20Reunião.png)
+
+### Geração de Ofício
+
+![Geração de Ofício](Assets/Screenshots/Geração_de_Ofício.png)
+
+### Painel Administrativo
+
+![Painel Administrativo](Assets/Screenshots/Painel_Administrativo.png)
